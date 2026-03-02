@@ -10,7 +10,7 @@ By installing the Kubernetes Extension Pack for Podman Desktop, you'll get acces
 
 [Kubernetes Dashboard](https://github.com/podman-desktop/extension-kubernetes-dashboard) lets you monitor resources from Kubernetes clusters directly within Podman Desktop.
 
-### Kubernetes Contexts
+### Kubernetes Contexts Manager
 
 [Kubernetes Contexts Manager](https://github.com/podman-desktop/extension-kubernetes-contexts) allows you to manage Kubernetes contexts, making it easy to switch between clusters and namespaces.
 

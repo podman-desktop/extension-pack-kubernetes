@@ -12,7 +12,7 @@ By installing the Kubernetes Extension Pack for Podman Desktop, you'll get acces
 
 ### Kubernetes Contexts
 
-[Kubernetes Contexts](https://github.com/podman-desktop/extension-kubernetes-contexts) allows you to manage Kubernetes contexts, making it easy to switch between clusters and namespaces.
+[Kubernetes Contexts Manager](https://github.com/podman-desktop/extension-kubernetes-contexts) allows you to manage Kubernetes contexts, making it easy to switch between clusters and namespaces.
 
 ### Kreate
 

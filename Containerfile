@@ -26,7 +26,7 @@ FROM scratch
 
 LABEL org.opencontainers.image.title="Kubernetes Extension Pack" \
       org.opencontainers.image.description="Kubernetes Extension Pack for Podman Desktop" \
-      org.opencontainers.image.vendor="Red Hat" \
+      org.opencontainers.image.vendor="podman-desktop" \
       io.podman-desktop.api.version=">= 1.26.0"
 
 COPY --from=builder /extension /extension

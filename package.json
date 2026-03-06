@@ -2,7 +2,7 @@
   "name": "kubernetes-pack",
   "displayName": "Kubernetes Extension Pack",
   "description": "Recommended Kubernetes extensions for Podman Desktop",
-  "version": "0.0.1",
+  "version": "0.2.0-next",
   "icon": "icon.png",
   "publisher": "podman-desktop",
   "license": "Apache-2.0",

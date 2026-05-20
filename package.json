@@ -1,5 +1,7 @@
 {
   "name": "kubernetes-pack",
+  "repository": "https://github.com/podman-desktop/extension-pack-kubernetes",
+  "homepage": "https://github.com/podman-desktop/extension-pack-kubernetes#readme",
   "displayName": "Kubernetes Extension Pack",
   "description": "Recommended Kubernetes extensions for Podman Desktop",
   "version": "0.2.0-next",
